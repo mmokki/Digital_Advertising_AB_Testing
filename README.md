@@ -1,7 +1,7 @@
 # Digital Advertising A/B Testing Analysis and Report
 This is a personal project.
 
-Note: the company "GameFun" is made up due to confidential reasons.
+Note: the company name "GameFun" is made up due to confidential reasons.
 
 ### Goal
 This project aims to analyze the digital ads A/B testing result for a mobile game company and create a business report with insights and further recommendations.
