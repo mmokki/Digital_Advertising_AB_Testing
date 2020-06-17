@@ -1,4 +1,4 @@
-# Digital Advertising A/B Testing Analysis and Report
+# Digital Advertising A/B Testing Analysis
 This is a personal project.
 
 Note: the company name "GameFun" is made up due to confidential reasons.
